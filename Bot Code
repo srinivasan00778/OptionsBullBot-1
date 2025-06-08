@@ -1,0 +1,10 @@
+# Unzip your bot
+unzip OptionsBull_TradingBot.zip
+cd OptionsBull_TradingBot
+
+# Initialize Git
+git init
+git remote add origin https://github.com/YOUR_USERNAME/OptionsBullBot.git
+git add .
+git commit -m "Initial upload of AI Trading Bot"
+git push -u origin master
